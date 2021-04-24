@@ -1,5 +1,5 @@
 ### Hi there 👋
--🔭 I’m currently working on Movie-Discord-Bot & NiceHash-Chrome-extension
+- 🔭 I’m currently working on Movie-Discord-Bot & NiceHash-Chrome-extension
 - 🌱 I’m currently learning: React & MongoDB
 - ⚡ Fun fact: I like APIs :))
 <p>&nbsp;<img align="center"
