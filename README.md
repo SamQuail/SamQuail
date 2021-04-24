@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#🔭 I’m currently working on Movie-Discord-Bot & NiceHash-Chrome-extension
+- 🌱 I’m currently learning: React & MongoDB
+- ⚡ Fun fact: I like APIs :))
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=samsomeone&show_icons=true&locale=en"
         alt="samsomeone" /></p>
