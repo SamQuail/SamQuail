@@ -1,4 +1,5 @@
 <img src="/banner.png" alt="Sam Quail" title="Banner"/>
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
