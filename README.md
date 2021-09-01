@@ -2,7 +2,7 @@
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=SamQuail&show_icons=true&locale=en"
-        alt="samsomeone" /></p>
+        alt="Sam Quail" /></p>
         
 
 <!--
