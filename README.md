@@ -15,3 +15,4 @@ Skills: ExpressJS + Axios + Nodejs + RESTful APIs + Redux
 ## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/samquail/)
+[<img src="https://img.shields.io/badge/-My%20Website-brightgreen" alt="My Website logo" title="My Website" height="25" />](https://samquail.github.io/portfolio/index.html)
