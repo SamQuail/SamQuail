@@ -15,7 +15,4 @@
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner" height="25" />
 
 
-## 🔍  Where to find me
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin-blue&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/samquail/)
 
