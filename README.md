@@ -1,6 +1,6 @@
 <img src="/banner.png" alt="Sam Quail" title="Banner"/>
 
-## 🛠  Technologies and tools
+## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=blue" alt="git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=blue" alt="Kubernetes logo" title="Kubernetes" height="25" />
 
-## Certifications 🎓
+## 🎓  Certifications
 <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" title="AWS Cloud Practitioner" height="25" />
 
 
